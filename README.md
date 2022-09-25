@@ -1,4 +1,4 @@
-[![OpenCore Version](https://img.shields.io/badge/OpenCore-0.8.3-green.svg)](https://github.com/SkyrilHD/Dell-E7250-Hackintosh/)
+[![OpenCore Version](https://img.shields.io/badge/OpenCore-0.8.3-green.svg)]
 
 
 # Lenovo-Thinkpad-Helix-2-Hackintosh
