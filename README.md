@@ -47,8 +47,8 @@ Software | macOS 12.4 Monterey
 
 ## Graphical glitches in macOS
 
-The workaround that work for me is using [one-key-hidpi](https://github.com/xzhih/one-key-hidpi). Download and run the code and select 'Enable HIDPI (with EDID)'. Then restart your computer and the glitches should be resolved.
-
+The workaround that work for me is putting computer on sleep within glictchiy screen and after wakeup is resolved
+then i used [one-key-hidpi](https://github.com/xzhih/one-key-hidpi). Downloaded and ran the code and selected 'Enable HIDPI (with EDID)'.
 
 ## Touchscreen
 
