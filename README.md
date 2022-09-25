@@ -13,7 +13,7 @@ RAM | 8GB LPDDR3 1600Mhz
 WiFi | Intel Dual Band Wireless-AC 7265
 Software | macOS 12.4 Monterey
 
-##What works?
+## What works?
 
 -Graphic acceleration (But it performs worse than Windows) IDW Why
 
@@ -31,7 +31,7 @@ Software | macOS 12.4 Monterey
 
 -Trackpad
 
-##What doesn't?
+## What doesn't?
 
 -Sleep via the Power key or Close the lid
 
